@@ -1,0 +1,24 @@
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+.content{
+    margin-bottom: 25px;
+}
+.left-nav{
+    height: 100%;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
+.margin-ten{
+    margin-bottom: 10px !important;
+}
+td.edit{
+    cursor: pointer;
+}
+td.edit:hover{
+    background-color: #0044cc;
+}
